@@ -1,0 +1,29 @@
+/* Add any global styles here */
+body {
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+  font-family: 'Urbanist', sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Urbanist', sans-serif;
+}
